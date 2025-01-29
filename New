@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Алматинская область"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [[[78.0, 43.0], [79.0, 43.0], [79.0, 44.0], [78.0, 44.0], [78.0, 43.0]]]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Акмолинская область"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [[[68.0, 50.0], [69.0, 50.0], [69.0, 51.0], [68.0, 51.0], [68.0, 50.0]]]
+        ]
+      }
+    }
+  ]
+}
